@@ -1,4 +1,4 @@
-Basic Raytracing Effects
+Basic Raytracing Effects CSC 305
 ========================
 
 The goal of this assignment is to implement basic ray tracing effects such as shadows, reflection, refraction and depth of field.
